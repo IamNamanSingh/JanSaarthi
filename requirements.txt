@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+rasa
+vosk
+coqui-ai
+transformers
+torch
+psycopg2-binary
